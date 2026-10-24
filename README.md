@@ -1,6 +1,6 @@
 # Stride — Running & Training Companion (`appbuilding`)
 
-**Stride** is a cross-platform mobile and web running, workout builder, and training plan application built with **Expo SDK 57**, **React Native**, and **Expo Router**.
+**Stride** is a cross-platform mobile and web running, workout builder, and training plan application built with **Expo SDK 57**, **React Native**, and **Expo Router** first created as a practice project.
 
 ---
 
